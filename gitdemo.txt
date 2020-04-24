@@ -1,2 +1,7 @@
 Hi 
 This is a demo for git
+
+the first commit is done successfully
+Now its time to do some experimentation
+
+save the file...
